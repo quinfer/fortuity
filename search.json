@@ -30,8 +30,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Infeireas Analytics",
+    "title": "Where Irish finance expertise meets professional data science",
     "section": "",
-    "text": "Where Irish finance expertise meets professional statistics and data science"
+    "text": "Where Irish finance expertise meets professional data science"
+  },
+  {
+    "objectID": "rgabout.html",
+    "href": "rgabout.html",
+    "title": "Ronan Gallagher",
+    "section": "",
+    "text": "Ronan is Director of Investment Research at Infeireas Analytics"
+  },
+  {
+    "objectID": "rgabout.html#education",
+    "href": "rgabout.html#education",
+    "title": "Ronan Gallagher",
+    "section": "Education",
+    "text": "Education\n\nCFA Institute, Charlottesville VA | Chartered Financial Analyst September 2016 – Present\n\n\nQueens University, Belfast, N. Ireland | PhD in Finance September 2007 – December 2010\n\n\nQueens University, Belfast, N. Ireland | MSc in Finance September 2006 – August 2007\n\n\nQueens University, Belfast, N. Ireland | BSc in Finance September 2002 – June 2006"
+  },
+  {
+    "objectID": "rgabout.html#experience",
+    "href": "rgabout.html#experience",
+    "title": "Ronan Gallagher",
+    "section": "Experience",
+    "text": "Experience\n\nUniversity of Edinburgh | Senior Lecturer in Finance | August 2020 – Present\nUniversity of Edinburgh | Lecturer in Finance | August 2012 – August 2020\nQueens University Belfast | Lecturer in Finance | January 2010 – July 2012\nPricewaterhouseCoopers LLP | Corporate Finance Research Associate| June 2006 – August 2006 & June 2004 – August 2005"
+  },
+  {
+    "objectID": "bqabout.html",
+    "href": "bqabout.html",
+    "title": "Barry Quinn",
+    "section": "",
+    "text": "Barry is Chief Data Scientist at Infeireas Analytics."
+  },
+  {
+    "objectID": "bqabout.html#education",
+    "href": "bqabout.html#education",
+    "title": "Barry Quinn",
+    "section": "Education",
+    "text": "Education\n\nRoyal Statistics Society, London |Charter Statistician | Jan 2019 - Present\n\n\nQueen’s University, Belfast, N. Ireland | PhD in Finance | Sept 2008 - June 2012\n\n\nRMIT University, Melbourne | MSc in Finance | Sept 2006 - June 2008"
+  },
+  {
+    "objectID": "bqabout.html#experience",
+    "href": "bqabout.html#experience",
+    "title": "Barry Quinn",
+    "section": "Experience",
+    "text": "Experience\n\nQueen’s University Belfast | Senior Lecturer in Finance, Technology and Data Science | April 2010 - present\nHenderson Global Investos| Liquidity Manager/Currency Trader | Sept 1995 - Sept 2004"
   }
 ]
